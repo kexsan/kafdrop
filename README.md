@@ -1,1 +1,1 @@
-# for running use
+# for running use docker-compose -p kafdrop up -d
